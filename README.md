@@ -2,14 +2,16 @@
 
 > Primeiro projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
 
-Neste trabalho aplicamos os conhecimentos adquiridos sobre SQL, linguagem usada para manipular dados em um banco de dados relacional.
-As ferramentas MySQL server e MySQL Workbench foram utilizadas para a sua conclusão.
+**Contexto**
 
-### Objetivo do projeto
+Neste trabalho aplicamos os conhecimentos adquiridos sobre SQL, linguagem usada para manipular dados em um banco de dados relacional.
+As ferramentas MySQL e MySQL Workbench foram utilizadas para a sua conclusão.
+
+**Objetivo do projeto**
 
 Concluir uma série de desafios utilizando o banco de dados NorthWind e os comandos aprendidos ao longo do bloco inicial de Back-end.
 
-### Principais habilidades desenvolvidas nesse trabalho:
+**Principais habilidades desenvolvidas nesse trabalho**
 
   - Compreender o uso da linguagem SQL e os conceitos mais importantes sobre bancos relacionais;
   - Construir querys SQL para seleção, filtragem, inserção, remoção entre outras finalidades;
@@ -25,6 +27,10 @@ Concluir uma série de desafios utilizando o banco de dados NorthWind e os coman
  - `COUNT`: para contar quantidade de resultados; 
  - `ORDER BY`: para ordenar os dados de uma consulta;
  - `IN` e `BETWEEN`: para retornar dados entre uma faixa de valores 
+
+**Tecnologia utilizada**
+
+- <a href="https://www.mysql.com/"><img src="https://icon-library.com/images/mysql-icon/mysql-icon-3.jpg" title="MySQL" align="center" height="35"/> - MySQL</a>
 
 ---
 
