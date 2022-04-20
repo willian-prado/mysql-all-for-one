@@ -1,11 +1,11 @@
 ## Projeto All For One
 
-> Primeiro projeto do módulo de Back-end do curso de desenvolvimento web da Trybe.
+> Primeiro projeto do módulo de Back-end do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
 Neste trabalho aplicamos os conhecimentos adquiridos sobre SQL, linguagem usada para manipular dados em um banco de dados relacional.
-As ferramentas MySQL e MySQL Workbench foram utilizadas para a sua conclusão.
+As ferramentas MySQL e MySQL Workbench foram utilizadas para a sua realização.
 
 **Objetivo do projeto**
 
@@ -90,3 +90,7 @@ Concluir uma série de desafios utilizando o banco de dados NorthWind e os coman
 #### 25 - Delete todos os dados em que a `unit_price` da tabela `order_details` seja menor que 10.0000.
 #### 26 - Delete todos os dados em que a `unit_price` da tabela `order_details` seja maior que 10.0000.
 #### 27 - Delete todos os dados da tabela `order_details`.
+
+---
+
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
